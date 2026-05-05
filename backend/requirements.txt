@@ -5,3 +5,8 @@ pandas
 numpy
 fastapi
 requests
+uvicorn
+psycopg2-binary==2.9.9
+pydantic[email]
+passlib[bcrypt]
+python-jose
